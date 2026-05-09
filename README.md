@@ -10,7 +10,7 @@ Translate YAML, JSON, TXT, and structured localization files while preserving pl
 
 <br>
 
-[![Telegram Bot](https://img.shields.io/badge/Open%20Bot-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/LocalynBot)
+[![Telegram Bot](https://img.shields.io/badge/Open%20Bot-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram)]([https://t.me/LocalynBot](https://t.me/LocalynBot?start=ref_FD00F178))
 [![Telegram Channel](https://img.shields.io/badge/Channel-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/LocalynAI)
 [![Contact](https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/LocalynAI?direct)
 
@@ -205,7 +205,7 @@ Unlike generic translators, LocalynAI understands localization workflows.
 # 📢 Official Links
 
 ## 🤖 Telegram Bot
-https://t.me/LocalynBot
+[https://t.me/LocalynBot](https://t.me/LocalynBot?start=ref_FD00F178)
 
 ## 📣 Official Channel
 https://t.me/LocalynAI
