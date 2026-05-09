@@ -205,7 +205,7 @@ Unlike generic translators, LocalynAI understands localization workflows.
 # 📢 Official Links
 
 ## 🤖 Telegram Bot
-[https://t.me/LocalynBot](https://t.me/LocalynBot?start=ref_FD00F178)
+[https://t.me/LocalynBot](https://t.me/LocalynBot)
 
 ## 📣 Official Channel
 https://t.me/LocalynAI
@@ -219,4 +219,4 @@ https://t.me/LocalynAI?direct
 
 ### Open the bot and translate your first localization file now.
 
-# 👉 https://t.me/LocalynBot
+# 👉 [https://t.me/LocalynBot](https://t.me/LocalynBot?start=ref_FD00F178)
