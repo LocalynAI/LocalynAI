@@ -10,11 +10,17 @@ Translate YAML, JSON, TXT, and structured localization files while preserving pl
 
 <br>
 
-[![Telegram Bot](https://img.shields.io/badge/Open%20Bot-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/LocalynBot?start=ref_FD00F178)
+<a href="https://t.me/LocalynBot?start=ref_FD00F178">
+  <img src="https://img.shields.io/badge/Open%20Bot-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram" />
+</a>
 
-[![Telegram Channel](https://img.shields.io/badge/Channel-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/LocalynAI)
+<a href="https://t.me/LocalynAI">
+  <img src="https://img.shields.io/badge/Channel-LocalynAI-2CA5E0?style=for-the-badge&logo=telegram" />
+</a>
 
-[![Contact](https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/LocalynAI?direct)
+<a href="https://t.me/LocalynAI?direct">
+  <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram" />
+</a>
 
 </div>
 
