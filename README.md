@@ -232,7 +232,7 @@ https://t.me/LocalynAI?direct
 ---
 
 <img width="1280" height="2022" alt="image" src="https://github.com/user-attachments/assets/1993e2f8-daa9-4291-a2fb-593fff931c78" />
-🆕 New Telegram Mini App Dashboard
+✨ LocalynAI Mini App
 
 LocalynAI now includes a fully redesigned Telegram Mini App dashboard built for faster and more modern localization workflows.
 
