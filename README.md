@@ -232,25 +232,30 @@ https://t.me/LocalynAI?direct
 ---
 
 <img width="1280" height="2022" alt="image" src="https://github.com/user-attachments/assets/1993e2f8-daa9-4291-a2fb-593fff931c78" />
-✨ LocalynAI Mini App
 
-LocalynAI now includes a fully redesigned Telegram Mini App dashboard built for faster and more modern localization workflows.
+## ✨ LocalynAI Mini App Platform
 
-The new dashboard introduces:
+LocalynAI now includes a completely redesigned Telegram Mini App platform engineered for modern AI-powered localization workflows.
 
-✅ Modern enterprise-style interface
-✅ Faster localization workflow management
-✅ Streamlined file upload experience
-✅ Real-time translation progress UI
-✅ Improved mobile responsiveness
-✅ Safer structured file handling
-✅ Better provider selection experience
+Built with a scalable SaaS-style architecture and localization-first infrastructure, the new platform delivers a faster, cleaner, and more enterprise-ready translation experience directly inside Telegram.
+
+### Platform Highlights
+
+✅ Enterprise-grade interface architecture
+✅ Advanced localization workflow system
+✅ Streamlined structured file uploads
+✅ Real-time translation progress tracking
+✅ Responsive cross-device experience
+✅ Localization-safe processing pipeline
+✅ Intelligent provider management
 ✅ Optimized multilingual navigation
-✅ Enhanced localization-focused UX
-✅ Telegram-native app experience
+✅ Enhanced UX for production localization
+✅ Telegram-native workflow integration
+✅ Modern dashboard and infrastructure layer
+✅ Scalable translation automation systems
 
-The Mini App dashboard is designed to make localization inside Telegram feel closer to a professional SaaS platform while keeping workflows simple, fast, and mobile-friendly.
+The LocalynAI Mini App is designed to provide developers, SaaS platforms, applications, games, and multilingual projects with a more professional localization environment while preserving the simplicity and speed of Telegram-native workflows.
 
-Developers can now manage localization tasks, upload structured files, choose AI providers, and receive production-ready translations through a cleaner and more scalable interface.
+Developers can upload structured localization resources, manage translation workflows, choose AI translation providers, and receive production-ready multilingual outputs through a unified modern interface.
 
-🌍 LocalynAI continues expanding its localization infrastructure, workflow automation, and enterprise-grade translation systems.
+🌐 LocalynAI continues expanding its AI localization infrastructure, enterprise automation systems, translation intelligence, and multilingual workflow platform.
