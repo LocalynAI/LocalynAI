@@ -233,7 +233,7 @@ https://t.me/LocalynAI?direct
 
 <img width="1280" height="2022" alt="image" src="https://github.com/user-attachments/assets/1993e2f8-daa9-4291-a2fb-593fff931c78" />
 
-## ✨ LocalynAI Mini App Platform
+## ✨ LocalynAI Mini App
 
 LocalynAI now includes a completely redesigned Telegram Mini App platform engineered for modern AI-powered localization workflows.
 
