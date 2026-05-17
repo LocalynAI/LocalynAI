@@ -228,3 +228,29 @@ https://t.me/LocalynAI?direct
 ### Open the bot and translate your first localization file now.
 
 # 👉 [https://t.me/LocalynBot](https://t.me/LocalynBot?start=ref_FD00F178)
+
+---
+
+<img width="1280" height="2022" alt="image" src="https://github.com/user-attachments/assets/1993e2f8-daa9-4291-a2fb-593fff931c78" />
+🆕 New Telegram Mini App Dashboard
+
+LocalynAI now includes a fully redesigned Telegram Mini App dashboard built for faster and more modern localization workflows.
+
+The new dashboard introduces:
+
+✅ Modern enterprise-style interface
+✅ Faster localization workflow management
+✅ Streamlined file upload experience
+✅ Real-time translation progress UI
+✅ Improved mobile responsiveness
+✅ Safer structured file handling
+✅ Better provider selection experience
+✅ Optimized multilingual navigation
+✅ Enhanced localization-focused UX
+✅ Telegram-native app experience
+
+The Mini App dashboard is designed to make localization inside Telegram feel closer to a professional SaaS platform while keeping workflows simple, fast, and mobile-friendly.
+
+Developers can now manage localization tasks, upload structured files, choose AI providers, and receive production-ready translations through a cleaner and more scalable interface.
+
+🌍 LocalynAI continues expanding its localization infrastructure, workflow automation, and enterprise-grade translation systems.
